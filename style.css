@@ -1,0 +1,34 @@
+body{
+    padding: 50px 80px;
+    font-family: Arial;
+}
+
+h1{
+    text-align: center;
+}
+
+
+div {
+    width: 50%; /* Define a largura da div */
+    background-color: #111;
+    color: #808080; 
+    padding: 20px; 
+    border-radius: 4px;
+    margin: 0 auto; /* Centraliza a div horizontalmente */
+}
+
+button{
+    background-color: #febe01;
+    border-radius: 4px;
+}
+
+button p{
+    color: #332200;
+ 
+}
+
+
+.highlight {
+    color: #febe01;
+    font-weight: bold; /
+}
